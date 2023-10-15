@@ -1,0 +1,38 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+em {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+strong {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+}
+
+.card {
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    box-shadow: 0 8px 8px -4px grey;
+}
+
+.information {
+    border: 1px solid grey;
+    padding: 10px;
+    margin: auto;
+    width: 95%;
+    margin: 10px;
+}
